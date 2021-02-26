@@ -1,5 +1,5 @@
 # WEB2
-##Back
+##BackEnd:
 composer install
-##Front
+##FrontEnd:
 npm install
